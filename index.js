@@ -1,6 +1,6 @@
 'use strict';
 
-//const apiKey = 'AIzaSyCKhNaRy9W_3st70sza2WJRW4xXkel4qEQ';
+//const apiKey = '';
 //const mapUrl = `https://www.google.com/maps/@?api='${apiKey}'&map_action=map`;
 
 //function loadMap(){
